@@ -1,0 +1,17 @@
+{
+  "name": "Trello Talk",
+  "details":"Add voice and video collaboration to your Trello board",
+  "icon": {
+    "url": "./images/tt-black.svg"
+  },
+  "author": "Trello Inc",
+  "capabilities": [
+    "board-buttons",
+    "callback"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
